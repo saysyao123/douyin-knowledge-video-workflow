@@ -1,0 +1,56 @@
+# 本地运行缓存
+工具缓存/
+临时分析_参考文件/
+临时分析_文案调整方案/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 原始素材、第三方视频和本地媒体
+素材库/
+参考资料/
+资料库/原始资料/
+下载工具/
+*.mp4
+*.m4a
+*.wav
+*.mp3
+*.mov
+*.avi
+*.mkv
+
+# 原始文档、模型与二进制
+*.pdf
+*.doc
+*.docx
+*.exe
+*.dll
+*.so
+*.dylib
+*.onnx
+*.bin
+*.pth
+*.pkl
+*.npy
+*.npz
+*.lib
+*.a
+
+# 临时下载和编辑残留
+*.part
+*.tmp
+*.crdownload
+*.bak
+*.log
+
+# 凭证与本地配置
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+token.json

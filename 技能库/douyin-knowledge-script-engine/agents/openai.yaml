@@ -1,0 +1,7 @@
+interface:
+  display_name: "抖音知识口播稿引擎"
+  short_description: "热点与资料转抖音口播稿，完成事实核验、留存设计和内部自审"
+  default_prompt: "使用 $douyin-knowledge-script-engine，按项目V1流程生成一条通过自审的抖音知识口播定稿。"
+
+policy:
+  allow_implicit_invocation: true

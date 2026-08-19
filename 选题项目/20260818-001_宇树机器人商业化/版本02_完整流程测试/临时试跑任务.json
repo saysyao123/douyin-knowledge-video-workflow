@@ -1,0 +1,11 @@
+[
+  {
+    "id": "参考样本06_前20秒_主模型试跑",
+    "audio": "D:\\整体视频流程重建\\选题项目\\20260818-001_宇树机器人商业化\\版本02_完整流程测试\\02_参考样本转写\\临时试跑_06前20秒.wav",
+    "pass": "large-v3-turbo_pilot",
+    "condition_on_previous_text": true,
+    "temperature": 0.0,
+    "beam_size": 5,
+    "best_of": 5
+  }
+]

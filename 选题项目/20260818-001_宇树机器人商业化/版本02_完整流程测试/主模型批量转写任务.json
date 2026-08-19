@@ -1,0 +1,47 @@
+[
+  {
+    "id": "鼎极财富笔记_02_高位驯化",
+    "audio": "D:\\整体视频流程重建\\素材库\\对标账号视频\\鼎极财富笔记\\02_7667493049958397346.mp4",
+    "pass": "large-v3-turbo_primary",
+    "condition_on_previous_text": true,
+    "temperature": 0.0,
+    "beam_size": 5,
+    "best_of": 5
+  },
+  {
+    "id": "鼎极财富笔记_04_最强掠夺法",
+    "audio": "D:\\整体视频流程重建\\素材库\\对标账号视频\\鼎极财富笔记\\04_7661921462043655394.mp4",
+    "pass": "large-v3-turbo_primary",
+    "condition_on_previous_text": true,
+    "temperature": 0.0,
+    "beam_size": 5,
+    "best_of": 5
+  },
+  {
+    "id": "复利研习社_06_稳富",
+    "audio": "D:\\整体视频流程重建\\素材库\\对标账号视频\\复利研习社\\06_7669265304576745299.mp4",
+    "pass": "large-v3-turbo_primary",
+    "condition_on_previous_text": true,
+    "temperature": 0.0,
+    "beam_size": 5,
+    "best_of": 5
+  },
+  {
+    "id": "张琦老师商业咨询_11_豆包收费",
+    "audio": "D:\\整体视频流程重建\\素材库\\对标账号视频\\张琦老师商业咨询\\11_7674977587457772838.mp4",
+    "pass": "large-v3-turbo_primary",
+    "condition_on_previous_text": true,
+    "temperature": 0.0,
+    "beam_size": 5,
+    "best_of": 5
+  },
+  {
+    "id": "张琦老师商业咨询_15_AI财富趋势",
+    "audio": "D:\\整体视频流程重建\\素材库\\对标账号视频\\张琦老师商业咨询\\15_7674286938148343092.mp4",
+    "pass": "large-v3-turbo_primary",
+    "condition_on_previous_text": true,
+    "temperature": 0.0,
+    "beam_size": 5,
+    "best_of": 5
+  }
+]

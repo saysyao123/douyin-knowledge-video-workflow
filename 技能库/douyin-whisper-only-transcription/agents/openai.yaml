@@ -1,0 +1,3 @@
+interface:
+  display_name: "Whisper唯一转写"
+  short_description: "用已验证的本机Whisper生成中文时间轴转写"

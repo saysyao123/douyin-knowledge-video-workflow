@@ -1,0 +1,7 @@
+interface:
+  display_name: "抖音公开视频下载"
+  short_description: "公开页面下载、来源记录与视频完整性校验"
+  default_prompt: "使用 $douyin-public-video-downloader 下载并校验公开抖音视频，保留中文目录和来源记录。"
+
+policy:
+  allow_implicit_invocation: true
